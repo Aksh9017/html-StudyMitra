@@ -1,1 +1,1 @@
-# html-StudyMitra
+# studyMitra
